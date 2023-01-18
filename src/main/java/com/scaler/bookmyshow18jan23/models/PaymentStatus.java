@@ -1,2 +1,6 @@
-package com.scaler.bookmyshow18jan23.models;public enum PaymentStatus {
+package com.scaler.bookmyshow18jan23.models;
+
+public enum PaymentStatus {
+    SUCCESS,
+    FAILURE,
 }
