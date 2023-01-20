@@ -19,3 +19,14 @@ namanbhalla=#
 
 
 ```
+
+
+Agenda:
+1. Controller, Services, Repositories -> Booking Ticket
+2. Handling concurrency issue
+// Ability to book a ticket
+
+// Break till 10:13 PM
+// After break:
+// 1. Handle concurrency
+// 2. BookMyShow
